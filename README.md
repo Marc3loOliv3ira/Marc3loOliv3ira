@@ -33,8 +33,4 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/Marc3loOliv3ira/Marc3loOliv3ira/blob/output/snake.svg" alt="Snake animation" />
-
-###
+[Snake Animation](https://github.com/Marc3loOliv3ira/Marc3loOliv3ira/blob/output/github-contribuition-grid-snake.svg)
