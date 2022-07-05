@@ -33,4 +33,4 @@
 
 ###
 
-[Snake Animation](https://github.com/Marc3loOliv3ira/Marc3loOliv3ira/blob/output/github-contribuition-grid-snake.svg)
+![Snake Animation](https://github.com/Marc3loOliv3ira/Marc3loOliv3ira/blob/output/github-contribuition-grid-snake.svg)
